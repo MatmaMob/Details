@@ -4,6 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
 
+    <color name="white">#ffffff</color>
     <!--Gradients-->
     <color name="gradient_blue">#0C7BB3</color>
     <color name="gradient_pink">#F2BAE8</color>
